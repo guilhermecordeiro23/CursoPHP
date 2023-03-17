@@ -14,5 +14,6 @@
     </h1>
     <hr>
     <p>Vamos nos livrar da maldição</p>
+    <button>Vamos lá</button>
 </body>
 </html>
