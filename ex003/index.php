@@ -20,7 +20,19 @@
         //$num =(int)3e2; //3 x 10(2) coerção
         //var_dump($num);
 
-        
+        //$casado = true;
+        //var_dump($casado);
+        //echo "o valor para casado é $casado"
+
+        //$vet = [6, 2.9, "Maria", 3, false]; //array = lista
+        //var_dump($vet);
+
+         //class pessoa{
+        //    private string $nome;
+       // }
+
+        //$p = new pessoa;
+        //var_dump($p);
 
     ?>
 </body>
